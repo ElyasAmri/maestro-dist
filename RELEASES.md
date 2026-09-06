@@ -48,3 +48,4 @@ One line per published release, newest last.
 - tui-v0.18.0 (2026-08-19T05:10Z)
 - tui-v0.18.1 (2026-08-19T06:08Z)
 - tui-v0.20.0 (2026-09-03T00:40Z)
+- maestrod-v0.2.0 (2026-09-06T12:36Z)
