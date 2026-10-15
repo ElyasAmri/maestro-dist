@@ -59,3 +59,4 @@ One line per published release, newest last.
 - tui-v0.24.0 (2026-09-29T17:10Z)
 - tui-v0.25.0 (2026-10-05T11:18Z)
 - tui-v0.25.1 (2026-10-11T13:39Z)
+- tui-v0.25.2 (2026-10-15T11:42Z)
