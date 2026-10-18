@@ -62,3 +62,4 @@ One line per published release, newest last.
 - tui-v0.25.2 (2026-10-15T11:42Z)
 - maestrod-v0.2.1: source 4842ac9291a23e60e9f8562d6ee1365356ffa3cb
 - tui-v0.25.3: source 4842ac9291a23e60e9f8562d6ee1365356ffa3cb
+- maestrod-v0.2.2: source 8c260582a3f39e560822479cefb77b3f02a3660b
